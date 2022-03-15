@@ -1,0 +1,10 @@
+## Training Time
+
+NN | Unc. Modelling| Training Time (sec)
+--- | --- | --- 
+CNN1| BL / MCD| ~ 110
+CNN1| BBB | ~ 125 
+CNN1| EN| ~ 550
+CNN2| BL / MCD |~ 500
+CNN2| BBB | ~ 920
+CNN2| EN | ~ 2.500
